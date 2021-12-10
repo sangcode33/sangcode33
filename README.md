@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-**코드스테이츠** @codestates SEB 34기 (2021.08 ~ 현재)
+**코드스테이츠** @[codestates](https://github.com/codestates) SEB 34기 (2021.08 ~ 현재)
 
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/></a>
 
