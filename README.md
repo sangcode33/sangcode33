@@ -15,6 +15,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+💬 More Info... [RESUME](https://crimson-kale-ade.notion.site/6cb3f8e9d82746e0823db439b552ef7b)
+
 **코드스테이츠** @[codestates](https://github.com/codestates) SEB 34기 (2021.08 ~ )
 
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/></a>
