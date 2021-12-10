@@ -1,4 +1,4 @@
-# 권상현 sang kwon 👋  
+# 권상현 sang kwon
 :briefcase: IT Product Manager                           
 :mortar_board: Rikkyo University, Japan 
 <!--
