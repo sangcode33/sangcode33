@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-💬 More Info... [RESUME](https://crimson-kale-ade.notion.site/6cb3f8e9d82746e0823db439b552ef7b)
+💬 More Info... [RESUME](https://www.notion.so/6cb3f8e9d82746e0823db439b552ef7b)
 
 **코드스테이츠** @[codestates](https://github.com/codestates) SEB 34기 (2021.08 ~ 2022.01)
 
